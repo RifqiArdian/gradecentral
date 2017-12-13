@@ -1,0 +1,6 @@
+def update
+    user = User.find(params[:id])
+    user.remove_role user.roles.last # user only has one role
+    user.add_role(:teacher)
+    redirect_to '/admin'
+end
