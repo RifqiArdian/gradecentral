@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# gradecentral
+simple role management in ruby on rails
+>>>>>>> bb00b959d64d27cd7517d20977f3f03c146a7156
